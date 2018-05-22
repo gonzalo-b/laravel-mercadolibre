@@ -1,5 +1,5 @@
 {
-  "name": "gonzalo-b/laravel-mercadolibre",
+  "name": "zephia/laravel-mercadolibre",
   "description": "Laravel wrapper for the MercadoLibre API Client",
   "type": "library",
   "license": "MIT",
